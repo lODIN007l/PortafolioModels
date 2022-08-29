@@ -17,6 +17,15 @@ const Hero = () => {
             <h1 className="text-4xl leading-[44px] md:text-5xl md:leading-tight lg:text-7xl lg:leading-[1.2] font-bold md:tracking-[-2px]">
               I build & Design <br /> Web Interfaces
             </h1>
+            <p className="pt-4 pb-8 md:pt-6 md:pb-12 max-w-[480px] text-lg text-center lg:text-left">
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+              fugiat adipisci doloremque commodi, sint enim cum accusantium
+              pariatur, suscipit beatae modi nihil deserunt esse fuga alias.
+              Nobis, cupiditate? Dignissimos, beatae.
+            </p>
+            <button className="btn btn-md bg-accent hover:bg-accent-hover md:btn-lg transition-all">
+              Work with me
+            </button>
           </div>
           {/* right side  */}
           <div className="hidden lg:flex flex-1 justify-end items-end">
