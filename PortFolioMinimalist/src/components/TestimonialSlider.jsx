@@ -1,11 +1,11 @@
 import React from "react";
 
-import { testimonials } from "./data";
+import { testimonials } from "../data";
 import { Swiper, SwiperSlide } from "swiper/react";
 //stilos
 import "swiper/css";
 import "swiper/css/pagination";
-import "./swiper.css";
+import "../swiper.css";
 // modulos requeridos
 import { Autoplay, Pagination } from "swiper";
 

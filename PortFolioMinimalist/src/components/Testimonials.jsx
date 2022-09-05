@@ -1,6 +1,6 @@
 import React from "react";
 
-import TestimonialSlider from "./TestimonialSlider";
+import TestimonialSlider from "../components/TestimonialSlider";
 
 const Testimonials = () => {
   return (
