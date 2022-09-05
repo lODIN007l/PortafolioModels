@@ -8,6 +8,7 @@ import Services from "./components/Services";
 import Testimonials from "./Testimonials";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import BackToTopBTN from "./components/BackToTopBTN";
 function App() {
   return (
     <>
@@ -21,6 +22,7 @@ function App() {
       <Testimonials />
       <Contact />
       <Footer />
+      <BackToTopBTN />
     </>
   );
 }
